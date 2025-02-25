@@ -1,6 +1,7 @@
-# Language-Translation
-Language Translation 
+# Language Translation  
 
-# Epoch training:
-<p><a href=epochtraining.png">
-</p>
+## Epoch Training  
+![Epoch Training](epochtraining.png)  
+
+## Translation Output  
+![Translation Output](translation_output.png)  
